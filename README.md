@@ -26,6 +26,7 @@ lib/
     shared/
     signup/
     submit/
+    verify/
   widgets/
 ```
 
