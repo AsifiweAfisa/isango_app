@@ -20,9 +20,11 @@ lib/
     theme/
   screens/
     home/
+    login/
     saved/
     settings/
     shared/
+    signup/
     submit/
   widgets/
 ```
